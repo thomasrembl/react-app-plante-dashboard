@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-app-plante-dashboard/static/css/main.938cf10a.css",
+    "main.js": "/react-app-plante-dashboard/static/js/main.9be5f8b1.js",
+    "static/media/video.mp4": "/react-app-plante-dashboard/static/media/video.facad50ca29027308f33.mp4",
+    "static/media/moi.jpg": "/react-app-plante-dashboard/static/media/moi.2224ba97c8a165e96bd4.jpg",
+    "static/media/img4.jpg": "/react-app-plante-dashboard/static/media/img4.e835625ee384752bed27.jpg",
+    "static/media/img2.png": "/react-app-plante-dashboard/static/media/img2.5997abb6f0e27df7bad8.png",
+    "static/media/logo.png": "/react-app-plante-dashboard/static/media/logo.2fcda545aa1b0c66f370.png",
+    "index.html": "/react-app-plante-dashboard/index.html",
+    "main.938cf10a.css.map": "/react-app-plante-dashboard/static/css/main.938cf10a.css.map",
+    "main.9be5f8b1.js.map": "/react-app-plante-dashboard/static/js/main.9be5f8b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.938cf10a.css",
+    "static/js/main.9be5f8b1.js"
+  ]
+}
